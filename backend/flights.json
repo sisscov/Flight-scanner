@@ -1,0 +1,4202 @@
+[
+  {
+    "uuid": "b4c2169a-c351-4105-92ab-7d5386c8ade5",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 751.8,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "00766671-d751-4291-a030-71b75d95914d",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 1059.73,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "5126f5fb-73c8-4332-8de7-ccb080f78b45",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 308.96,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "dc7605ae-c047-4a57-98d7-5c0180583e1b",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 955.96,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "d31cadc0-b039-47a6-923a-01e8182e6747",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 1112.03,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "5dfbfeae-d359-4b81-a732-0c0492956dc6",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 554.04,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "bff19eca-ca83-4043-8cdf-09e8a5cdbf3e",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 995.57,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "331a76eb-3c41-4b2f-8173-ff1a82b9748d",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 698.58,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "fb62248f-9f4d-44fe-bc2e-ae3fb83f6186",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 360.04,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "aeaf215a-a7e2-4e05-a0cd-1ee0cf4ea6c8",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 419.51,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "34c650ec-4949-4de4-982c-1ed6d42376b4",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 565.04,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "572976cb-4d9c-4f6c-9931-2018801cf80f",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 490.64,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "ccd28949-e744-4f8e-801a-25a17a271623",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 371.82,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "76e84b0d-9b9d-46e5-8cf4-51667538215e",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 534.17,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "6ffe7ea6-7a47-492b-a38a-6735e4d9eb0a",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 586.19,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "38120184-e409-41f8-8b03-d347c919e0eb",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 96.11,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "190c1193-b511-4f8d-a69d-856bac2c4f25",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 816.43,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "3caaf237-0c17-4112-8875-89d14dea2737",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 266.13,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "fe0d6359-36d6-4433-91ba-4499a5df407e",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 974.92,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "7b888728-7271-47fb-9a0e-45a25884a77d",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 392.36,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "4af0c109-7940-485e-92df-2d9339f90d85",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 800.52,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "0effb3c0-bd11-4cfa-8f57-4f88ac9d789c",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 811.78,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "c071d1a9-81c1-45d8-a596-413c460b00e9",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 757.05,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "a3d8964d-04f0-4d0c-82f7-f4fb3cdd1aa9",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 651.76,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "fc6b2339-b839-4af0-a9d0-783571c1d546",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 866.86,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "cc0ea6f3-ee9b-441a-91f1-c8bd41593fba",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 487.44,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "b43d0966-553a-4e48-916c-210f8edbdf71",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 810,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "f609281e-a776-493a-b697-69b58cd0bd1d",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 129.17,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "baf37e8f-4dd3-4b81-8218-216011107329",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 1035.94,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "56a4f315-8106-42c6-ae38-a9f99cab8c0d",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 657.62,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "2e86fc79-b902-4637-91f3-f4ffadc4a5b4",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 1089.42,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "32d38fb8-969f-4b25-b60d-5c9637c69f67",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 626.6,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "82eda5c6-5bb2-4c41-9d37-4c2e73347f49",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 340.84,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "df56b8b4-fdd1-4d67-afe6-ee2667846eb5",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 583.73,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "595d6857-75d0-4c4b-a3df-d8f0fa2aa374",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 1170.14,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "2d1830c9-bef0-4427-9448-79a84950b95b",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 878.41,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "ddf2eb36-7f4c-4cfa-ba82-7bc8e67f10a9",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 172.98,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "9a05d819-236d-4016-a73d-99574ce269f4",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 696.39,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "19a3c6c0-ae8f-4112-b302-68abdfc35776",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 925.71,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "55a2cc00-1003-47c8-846a-121f23aafd39",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 1022.79,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "0d157d78-1170-48fb-a2b1-8f22d1cd102f",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 598.3,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "1dc34393-4dc1-4d2c-9dc9-de2fd1059140",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 394.12,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "f23aa1e8-1624-40e5-9509-d24f24ed69b3",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 1118.98,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "c6ab59bb-b62f-4a9a-9865-8bf8856bcc2a",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 595.64,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "b8931cbc-9764-470f-9ffc-2a1f957733df",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 274.6,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "8debc068-906f-4096-aca5-e9cb67e274e3",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 338.02,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "61d0a923-83c8-4748-993b-7aceb07f0a63",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 866,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "4f0351b0-20ef-47e2-a1d5-dfb6cb49f883",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 965.65,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "a7609f99-4647-4005-9198-72762fc61478",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 509.97,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "0ce59003-705f-43d3-a20d-30cd6e70c213",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 1035.86,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "3d8c445b-4e96-4148-831b-3c45d6ee1352",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 226.3,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "9563d647-b8e7-4191-a069-db16ab51e68b",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 662.09,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "5bd8f24f-a0f0-4746-a758-0b768433a898",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 741.51,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "d7274a18-37e5-40bb-a93c-fbcdb19232d4",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 699.16,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "319180b4-3a77-4891-a5bb-f09e613728da",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 399.5,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "cb91ce4d-921c-449f-9ad7-8b26b0b84f38",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 921.42,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "4e4a295a-9b41-4e25-9390-f45fb21168c4",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 319.21,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "c61b3e63-f458-4aaa-b98b-a3cc5972ef4c",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 853.86,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "04b71322-b208-43fe-acd0-dbde7bb0dd98",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 297.23,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "c03f205b-c8fd-4244-a05a-a6e35c290431",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 498.3,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "655f68d8-d9ba-4608-a963-1b14bf8f7b76",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 56.99,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "75c1e127-40b0-473e-ab66-9c50d302e48e",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 120.05,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "68cbbaee-1126-447a-81fb-16907534b4b3",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 52.72,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "6773e727-3255-407f-b872-e90b6237461d",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 599.49,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "953ee62e-b2d0-4524-8c76-d0df4dcd1848",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 89.09,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "431404a9-68fe-4d12-aff3-239bf814734a",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 771.97,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "9ba4efdb-8096-4e94-999e-ac0e27fae22b",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 215.93,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "29978fe6-864f-4660-a332-422921830fb6",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 939.99,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "6ffb3fc3-6798-4bd0-809f-1abba9bcccd7",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 871.08,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "5ab2f67d-86b9-4afe-ae18-4a091e014585",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 314.05,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "963bd8f1-3acf-45db-8042-905f4781a73a",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 296.15,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "cb958ad6-82f7-4aeb-97b5-e9ac98b9ef49",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 362.91,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "eea37c6d-7e6b-40b9-ad81-8383c55667eb",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 50.01,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "d8b214a8-7463-476f-9c40-8c9b0655e05f",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 302.23,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "349b2a9a-256c-4b1f-86db-f4ae73e41f05",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 741.65,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "c68096b7-9ccd-4965-9b1c-1169be6d3c6a",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 328.08,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "83d1b3f5-83d5-47e6-b761-121361da25d0",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 484.51,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "2917b237-79b3-4f66-bfd1-b3640afea36d",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 308.64,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "70e0d202-f9af-4a87-9867-f7fe805c7713",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 1003.96,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "eef37329-2f23-481f-9563-48b0763eeebd",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 185.73,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "3324e290-63bf-4de0-88c1-33d0a478fb6d",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 446.47,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "1c60265c-69fa-4835-8e7b-e5cfc390de13",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 872.43,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "236ac36d-dd46-4962-962d-b3d21ce4daa5",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 966.38,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "b7617f59-822f-4627-88da-0f8c7dba5fd5",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 951.28,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "e3beac2b-91db-4cd0-8b98-2eb22b48d409",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 552.64,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "145df8d3-b9f8-46d5-822a-27ff80076f8d",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 718.21,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "aa91ace2-7b48-4508-a0c8-7c255be366b2",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 508.07,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "4e751cfb-49ba-43a4-b483-9763ca63791a",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 1147.73,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "95ba3c2c-e5f3-4f54-b91a-f6582c101199",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 367.49,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "ce431083-8b57-4e7b-91f3-507d8116fd08",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 66.55,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "a9c33c7d-2a8a-462c-b433-7bbeb28bfda1",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 523.52,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "39562149-da9f-4f24-b802-a4a08c510bee",
+    "airlineCode": "KL",
+    "price": {
+      "amount": 1158.9,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "FIRST"
+    }
+  },
+  {
+    "uuid": "487d864f-5ba0-4730-a9e1-cfe3416eaa90",
+    "airlineCode": "LO",
+    "price": {
+      "amount": 802.88,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "728221b3-6390-49c8-8d5b-f78fc241904e",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 301.57,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "33ea6e7d-65c9-4d7e-82df-ca5d75cba1e1",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 705.53,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "ec6afc5c-2fd2-4c1b-9a20-df5641d7af58",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 635.24,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT9600S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 1,
+      "seatPitch": 81,
+      "freeBaggageAllowed": true,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "2f2e97a7-09dc-415a-8ca7-c9b8b849f60c",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 774.4,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 3,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "4a6b6f6f-45ee-4a86-948f-f17f6d526e13",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 718.73,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      },
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT17100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 4,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  },
+  {
+    "uuid": "a9c3dd2f-2489-4d7f-9e6c-0c6150c084b7",
+    "airlineCode": "UA",
+    "price": {
+      "amount": 371.16,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "ECONOMY"
+    }
+  },
+  {
+    "uuid": "04e8e5aa-27e6-40a9-bd80-d6ea88f8e6ea",
+    "airlineCode": "LH",
+    "price": {
+      "amount": 254.52,
+      "currency": "EUR"
+    },
+    "bounds": [
+      {
+        "departure": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-09T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      },
+      {
+        "departure": {
+          "code": "BCN",
+          "name": "Barcelona",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "destination": {
+          "code": "AMS",
+          "name": "Amsterdam Schiphol",
+          "dateTime": "2023-05-14T22:00:00.000Z"
+        },
+        "duration": "PT26100S"
+      }
+    ],
+    "details": {
+      "remainingNumberOfSeats": 2,
+      "seatPitch": 81,
+      "freeBaggageAllowed": false,
+      "cabinClass": "BUSINESS"
+    }
+  }
+]
