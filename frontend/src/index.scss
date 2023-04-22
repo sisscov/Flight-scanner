@@ -15,10 +15,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.centre{
+.forms {
+  width: 20vw;
+  height: 5vh;
+}
+.centre {
   text-align: center;
 }
-.title{
+.title {
   text-align: center;
   font-size: 2vw;
   font-weight: bold;
@@ -57,14 +61,19 @@ code {
 }
 
 @media screen and (max-width: 600px) {
+  .topnav {
+    display: grid;
+    justify-content: center;
+  }
   .topnav a,
   .topnav input[type="text"] {
     float: none;
     display: block;
     text-align: left;
-    width: 100%;
-    margin: 0;
+    width: 80%;
     padding: 14px;
+    margin: 0 auto 2% auto;
+    text-align: center;
   }
   .topnav input[type="text"] {
     border: 1px solid #ccc;
@@ -78,13 +87,20 @@ code {
   margin-left: auto;
   margin-right: auto;
   border-radius: 10px;
+  position: relative;
+}
+.flight_info {
+  position: absolute;
+  top: 15%;
+  left: 8%;
+  margin: -25px 0 0 -25px;
 }
 .line {
   display: block;
   height: 1px;
   border: 0;
   border-top: 1px solid #010101;
-  width: 70%;
+  width: 100%;
   margin: 5% 0 0 2%;
   padding: 0;
 }
@@ -200,13 +216,20 @@ code {
   margin-left: auto;
   margin-right: auto;
 }
-
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1500px) {
   .container {
-    height: 50vh;
+    height: 40vh;
   }
   .price {
-    height: 50vh;
+    height: 40vh;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .container {
+    height: 40vh;
+  }
+  .price {
+    height: 40vh;
   }
   .from_dep_time {
     width: 16vw;
@@ -220,6 +243,15 @@ code {
   .return_dep_time {
     width: 15vw;
   }
+  .flight_info {
+    margin: -25px 0 0 -35px;
+  }
+  .details {
+    margin: 0 5% 0 0;
+  }
+  .line {
+    width: 90%;
+  }
 }
 
 @media only screen and (max-width: 768px) {
@@ -231,10 +263,10 @@ code {
     height: fit-content;
   }
   .container {
-    height: 48vh;
+    height: 35vh;
   }
   .price {
-    height: 48vh;
+    height: 35vh;
   }
   .price_value {
     margin-top: 120%;
@@ -260,7 +292,7 @@ code {
   }
   .container {
     width: 65vw;
-    height: 55vh;
+    height: 45vh;
     position: relative;
   }
   .flight_from {
@@ -289,6 +321,9 @@ code {
     margin: 5% 0 0 0;
     margin-left: auto;
     margin-right: auto;
+  }
+  .details {
+    margin: 0;
   }
 }
 @media only screen and (max-width: 470px) {

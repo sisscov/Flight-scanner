@@ -61,7 +61,9 @@ const Flights = () => {
 
   return (
     <div className="App">
-      <div><FlightsNavbar/></div>
+      <div>
+        <FlightsNavbar />
+      </div>
       <div className="title">Check available flights:</div>
       {loading && <div className="centre">A moment please...</div>}
       {error && (
@@ -107,107 +109,110 @@ const Flights = () => {
                   </button>{" "}
                 </div>
               </div>
-              <button onClick={toggle} className="details">
-                Details
-              </button>
-              <div className="flight_from">
-                <img
-                  src={
-                    "https://d1ufw0nild2mi8.cloudfront.net/images/airlines/V2/srp/result_desktop/" +
-                    value.airlineCode +
-                    ".png"
-                  }
-                  alt="airlines_code"
-                  className="airlines_logo"
-                />
-                <div className="from_dep_time">
-                  {" "}
-                  {value.bounds[0].departure.code} <br />{" "}
-                  <div className="dep_time">
-                    {dep_time_from_b0.getUTCHours()}:
-                    {(dep_time_from_b0.getUTCMinutes() < 10 ? "0" : "") +
-                      dep_time_from_b0.getUTCMinutes()}
-                  </div>
-                  {dep_time_from_b0.getUTCDate()}-
-                  {dep_time_from_b0.toLocaleString("en-US", {
-                    month: "short",
-                  })}
-                  -{dep_time_from_b0.getUTCFullYear()}
-                </div>
-                <div>
-                  {" "}
-                  <div className="duration">{parse_b0}</div>
-                  <div className="duration_line">
+              <div className="flight_info">
+                {" "}
+                <button onClick={toggle} className="details">
+                  Details
+                </button>
+                <div className="flight_from">
+                  <img
+                    src={
+                      "https://d1ufw0nild2mi8.cloudfront.net/images/airlines/V2/srp/result_desktop/" +
+                      value.airlineCode +
+                      ".png"
+                    }
+                    alt="airlines_code"
+                    className="airlines_logo"
+                  />
+                  <div className="from_dep_time">
                     {" "}
-                    <img
-                      src={duration_line}
-                      alt="aduration_line"
-                      className="duration_line"
-                    />
+                    {value.bounds[0].departure.code} <br />{" "}
+                    <div className="dep_time">
+                      {dep_time_from_b0.getUTCHours()}:
+                      {(dep_time_from_b0.getUTCMinutes() < 10 ? "0" : "") +
+                        dep_time_from_b0.getUTCMinutes()}
+                    </div>
+                    {dep_time_from_b0.getUTCDate()}-
+                    {dep_time_from_b0.toLocaleString("en-US", {
+                      month: "short",
+                    })}
+                    -{dep_time_from_b0.getUTCFullYear()}
                   </div>
-                </div>
-                <div className="from_des_time">
-                  {" "}
-                  {value.bounds[0].destination.code} <br />
-                  <div className="des_time">
-                    {des_time_to_b0.getUTCHours()}:
-                    {(des_time_to_b0.getUTCMinutes() < 10 ? "0" : "") +
-                      des_time_to_b0.getUTCMinutes()}
-                  </div>
-                  {des_time_to_b0.getUTCDate()}-
-                  {des_time_to_b0.toLocaleString("en-US", { month: "short" })}-
-                  {des_time_to_b0.getUTCFullYear()} <br />
-                </div>
-              </div>
-              <div className="line" />
-              <div className="return_flight">
-                {test && <div>A moment please...</div>}
-                <img
-                  src={
-                    "https://d1ufw0nild2mi8.cloudfront.net/images/airlines/V2/srp/result_desktop/" +
-                    value.airlineCode +
-                    ".png"
-                  }
-                  alt="airlines_code"
-                  className="airlines_logo"
-                />
-                <div className="return_dep_time">
-                  {" "}
-                  {value.bounds[1]?.departure.code} <br />
-                  <div className="dep_time">
-                    {dep_time_from_b1.getUTCHours()}:
-                    {(dep_time_from_b1.getUTCMinutes() < 10 ? "0" : "") +
-                      dep_time_from_b1.getUTCMinutes()}{" "}
-                  </div>
-                  {dep_time_from_b0.getUTCDate()}-
-                  {dep_time_from_b1.toLocaleString("en-US", {
-                    month: "short",
-                  })}
-                  -{dep_time_from_b1.getUTCFullYear()}
-                </div>
-                <div>
-                  {" "}
-                  <div className="duration"> {parse_b0}</div>
-                  <div className="duration_line">
+                  <div>
                     {" "}
-                    <img
-                      src={duration_line}
-                      alt="aduration_line"
-                      className="duration_line"
-                    />
+                    <div className="duration">{parse_b0}</div>
+                    <div className="duration_line">
+                      {" "}
+                      <img
+                        src={duration_line}
+                        alt="aduration_line"
+                        className="duration_line"
+                      />
+                    </div>
+                  </div>
+                  <div className="from_des_time">
+                    {" "}
+                    {value.bounds[0].destination.code} <br />
+                    <div className="des_time">
+                      {des_time_to_b0.getUTCHours()}:
+                      {(des_time_to_b0.getUTCMinutes() < 10 ? "0" : "") +
+                        des_time_to_b0.getUTCMinutes()}
+                    </div>
+                    {des_time_to_b0.getUTCDate()}-
+                    {des_time_to_b0.toLocaleString("en-US", { month: "short" })}
+                    -{des_time_to_b0.getUTCFullYear()} <br />
                   </div>
                 </div>
-                <div className="return_des_time">
-                  {" "}
-                  {value.bounds[1]?.destination.code} <br />
-                  <div className="des_time">
-                    {des_time_to_b1.getUTCHours()}:
-                    {(des_time_to_b1.getUTCMinutes() < 10 ? "0" : "") +
-                      des_time_to_b1.getUTCMinutes()}{" "}
+                <div className="line" />
+                <div className="return_flight">
+                  {test && <div>A moment please...</div>}
+                  <img
+                    src={
+                      "https://d1ufw0nild2mi8.cloudfront.net/images/airlines/V2/srp/result_desktop/" +
+                      value.airlineCode +
+                      ".png"
+                    }
+                    alt="airlines_code"
+                    className="airlines_logo"
+                  />
+                  <div className="return_dep_time">
+                    {" "}
+                    {value.bounds[1]?.departure.code} <br />
+                    <div className="dep_time">
+                      {dep_time_from_b1.getUTCHours()}:
+                      {(dep_time_from_b1.getUTCMinutes() < 10 ? "0" : "") +
+                        dep_time_from_b1.getUTCMinutes()}{" "}
+                    </div>
+                    {dep_time_from_b0.getUTCDate()}-
+                    {dep_time_from_b1.toLocaleString("en-US", {
+                      month: "short",
+                    })}
+                    -{dep_time_from_b1.getUTCFullYear()}
                   </div>
-                  {des_time_to_b1.getUTCDate()}-
-                  {des_time_to_b1.toLocaleString("en-US", { month: "short" })}-
-                  {des_time_to_b1.getUTCFullYear()} <br />
+                  <div>
+                    {" "}
+                    <div className="duration"> {parse_b0}</div>
+                    <div className="duration_line">
+                      {" "}
+                      <img
+                        src={duration_line}
+                        alt="aduration_line"
+                        className="duration_line"
+                      />
+                    </div>
+                  </div>
+                  <div className="return_des_time">
+                    {" "}
+                    {value.bounds[1]?.destination.code} <br />
+                    <div className="des_time">
+                      {des_time_to_b1.getUTCHours()}:
+                      {(des_time_to_b1.getUTCMinutes() < 10 ? "0" : "") +
+                        des_time_to_b1.getUTCMinutes()}{" "}
+                    </div>
+                    {des_time_to_b1.getUTCDate()}-
+                    {des_time_to_b1.toLocaleString("en-US", { month: "short" })}
+                    -{des_time_to_b1.getUTCFullYear()} <br />
+                  </div>
                 </div>
               </div>
             </div>
