@@ -1,5 +1,5 @@
 
-# Weather App 🎨
+# Flight-scanner
 Flight-scanner - a project that uses data from a JSON file. The application displays flights and their time. Made with TSX and SCSS
 
 The project used:
